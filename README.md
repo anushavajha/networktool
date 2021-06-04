@@ -1,6 +1,6 @@
 # networktool
-A basic python network tool which can perform 
-1. Port Scanning                             
-2. Ip Scanning                                  
+A basic python network tool which includes 
+1. Port Scanner                             
+2. Ip Scanner                                  
 3. Send Ping                                                 
-4. Packet Sniffing
+4. Packet Sniffer
