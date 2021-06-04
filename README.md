@@ -1,4 +1,4 @@
-# networktool
+# networktools
 A basic python network tool which consists of the following: 
 1. Port Scanner                             
 2. Ip Scanner                                  
